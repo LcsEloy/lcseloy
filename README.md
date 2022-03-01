@@ -1,10 +1,10 @@
 ### Hello and Welcome!
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/lcseloy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcseloy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcseloy&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=lcseloy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="340" height="155" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcseloy&layout=compact&langs_count=7&theme=midnight-purple"/>
+</p>
   
   ##
   
